@@ -1,0 +1,3 @@
+<launch>
+    <node name="engelden_kac_node" pkg="bitirme_projesi" type="engelden_kac.py" />
+</launch>
